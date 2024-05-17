@@ -1,0 +1,9 @@
+baseURL = "https://devonanirudh.com/"
+languageCode = "en-us"
+title = "Devon Anirudh's Website"
+theme = "port-hugo"
+
+[params]
+  author = "Devon Anirudh"
+  description = "Personal website and portfolio"
+  github = "https://github.com/devonanirudh"
