@@ -24,8 +24,8 @@ jobs:
       with:
         node-version: '16'
 
-    - name: Install PostCSS
-      run: npm install postcss-cli
+    - name: Install PostCSS and Autoprefixer
+      run: npm install postcss-cli autoprefixer
 
     - name: Build
       run: hugo --minify
