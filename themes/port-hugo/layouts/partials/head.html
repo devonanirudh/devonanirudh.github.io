@@ -19,8 +19,9 @@
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
 
-  {{ $styles := resources.Get "css/style.scss" | resources.ToCSS | resources.PostCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen" />
+  {{ $opts := dict "targetPath" "css/main.css" "outputStyle" "compressed" }}
+  {{ $css := resources.Get "scss/main.scss" | css.Sass $opts | css.PostCSS }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 
   {{ "<!--Favicon-->" | safeHTML }}
 
