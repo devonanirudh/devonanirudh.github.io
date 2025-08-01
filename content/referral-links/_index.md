@@ -1,5 +1,12 @@
 ---
 title: "Referral Links"
 ---
-- [Link 1](http://example.com)
-- [Link 2](http://example.com)
+- [Chase Sapphire](https://www.referyourchasecard.com/19t/V1LA4MY16R)
+- [Chase Sapphire Buisness](https://www.referyourchasecard.com/21u/F9U8X2H5KU)
+- [Chase Ink](https://www.referyourchasecard.com/21u/UIZFHJWOLW)
+- [Chase United Cards](https://www.referyourchasecard.com/215m/YP9CGT2Q4H)
+- [Chase Freedom Cards](https://www.referyourchasecard.com/18A/GHEALY5ECN)
+- [Chase Freedom Alternate](https://www.referyourchasecard.com/18A/34F1RLZFMG)
+- [Chase Marriott Cards](https://www.referyourchasecard.com/252q/2ABIXC7XGW)
+- [American Express Platinum](https://americanexpress.com/en-us/referral/platinum-card?ref=DEVONABzyn&XLINK=MYCP)
+- [Capital One Cards](https://i.capitalone.com/JgN8Qn2sz)
